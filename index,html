@@ -1,0 +1,6 @@
+<script type="text/javascript">
+   window.onload = function() {
+      var UserInput = prompt("パスワードを入力して下さい:","");
+      location.href = UserInput + "https://kuboma0.github.io/Gverce/";
+   }
+</script>
